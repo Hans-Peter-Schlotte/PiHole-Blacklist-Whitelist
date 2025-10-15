@@ -74,6 +74,9 @@ amzn.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
+# Xbox Gamepass Bilder #
+store-images.s-microsoft.com
+
 
 # Battle.net #
 cach
@@ -155,3 +158,4 @@ bam-sdk-configs.bamgrid.com                          #App   Disney+ Launch Error
 disney.api.edge.bamgrid.com                          #App   Disney+ Launch Error
 disney.content.edge.bamgrid.com                      #App   Disney+ Launch Error
 disney.images.edge.bamgrid.com                       #App   Disney+ Images
+
