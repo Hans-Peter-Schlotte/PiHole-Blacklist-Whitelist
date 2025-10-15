@@ -79,7 +79,6 @@ store-images.s-microsoft.com
 
 
 # Battle.net #
-cach
 e-cms-ext-us.battle.net                         	#Battle.net            What's New  
    
 
@@ -158,4 +157,5 @@ bam-sdk-configs.bamgrid.com                          #App   Disney+ Launch Error
 disney.api.edge.bamgrid.com                          #App   Disney+ Launch Error
 disney.content.edge.bamgrid.com                      #App   Disney+ Launch Error
 disney.images.edge.bamgrid.com                       #App   Disney+ Images
+
 
