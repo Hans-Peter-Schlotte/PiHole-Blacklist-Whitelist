@@ -19,6 +19,19 @@ cloudfront.xp-assets.aiv-cdn.net                               #Amazon - Prime V
 js-assets.aiv-cdn.net                                          #Amazon - Prime Video - Breaks Video Player/Trailer (Browser)
 d3cb7mtd03xzt9.cloudfront.net                                  #Amazon - Prime Video - Breaks 'Explore'
 
+# Amazon Firestick 4k #
+aax-eu.amazon-adsystem.com
+ad.71i.de
+de.ioam.de
+hbbtv-track.redbutton.de
+script.ioam.de
+imasdk.googleapis.com
+79423.analytics.edgesuite.net
+pmd.cdn.turner.com
+i.cdn.turner.com
+s.cdn.turner.com
+z.cdn.turner.com
+amd.cdn.turner.com
 
 # Amazon Kindle #
 cognito-identity.us-east-1.amazonaws.com
@@ -157,5 +170,6 @@ bam-sdk-configs.bamgrid.com                          #App   Disney+ Launch Error
 disney.api.edge.bamgrid.com                          #App   Disney+ Launch Error
 disney.content.edge.bamgrid.com                      #App   Disney+ Launch Error
 disney.images.edge.bamgrid.com                       #App   Disney+ Images
+
 
 
