@@ -1,0 +1,13 @@
+# Amazon Firestick 4k #
+aax-eu.amazon-adsystem.com
+ad.71i.de
+de.ioam.de
+hbbtv-track.redbutton.de
+script.ioam.de
+imasdk.googleapis.com
+79423.analytics.edgesuite.net
+pmd.cdn.turner.com
+i.cdn.turner.com
+s.cdn.turner.com
+z.cdn.turner.com
+amd.cdn.turner.com
